@@ -1,0 +1,14 @@
+<rss version="2.0">
+    <title>Pancaked Studios</title>
+    <link>https://pancakedstudios.github.io/blog/feed.rss</link>
+    <description>PANCAKED STUDIOS: The Blog That Exists</description>
+    <channel>
+    <item>
+        <title>Test thing</title>
+        <link>test TEST TEST</link>
+        <pubDate>Fucking, God Damn It 04:20:59 EST</pubDate>
+        <description>
+            testing
+        </description>
+    </item>
+</rss>
