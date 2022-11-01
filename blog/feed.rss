@@ -1,14 +1,21 @@
-<rss version="2.0">
-    <title>Pancaked Studios</title>
-    <link>https://pancakedstudios.github.io/blog/feed.rss</link>
-    <description>PANCAKED STUDIOS: The Blog That Exists</description>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-    <item>
-        <title>Test thing</title>
-        <link>test TEST TEST</link>
-        <pubDate>Fucking, God Damn It 04:20:59 EST</pubDate>
-        <description>
-            testing
-        </description>
-    </item>
+        <title>Pancaked Studios: The Blog That Exists</title>
+        <description>I mean, it's a blog...</description>
+        <language>en-ca</language>
+        <link>https://pancakedstudios.github.io/blog/feed.rss</link>
+        <atom:link href="https://pancakedstudios.github.io/blog/feed.rss" rel="self" type="application/rss+xml" />
+
+        <!-- DB -->
+<item>
+	<title>testing time?</title>
+	<guid>https://pancakedstudios.github.io</guid>
+	<link>https://pancakedstudios.github.io</link>
+	<pubDate>Sun, 20 Apr 1969 00:38:09 +0400</pubDate>
+	<description>
+        hi there
+	]]></description>
+</item>
+    </channel>
 </rss>
