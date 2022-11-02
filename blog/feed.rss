@@ -11,37 +11,37 @@
 <item>
 	<title>-Oct. 16, 2022: The Return of the Devlog</title>
 	<description>
-        — The Return of the Devlog —
+        — The Return of the Devlog —</br></br>
 
-        Well, it's been a while since the last post, hasn't it? Wait, let me check... 171 days? 5 ½ months? Huh.
+        Well, it's been a while since the last post, hasn't it? Wait, let me check... 171 days? 5 ½ months? Huh.</br></br>
 
-        Okay, let me get this shit out of the way. A lot of shit was added since that blog post.
+        Okay, let me get this shit out of the way. A lot of shit was added since that blog post.</br></br>
 
-        Here is a very short rundown of what the hell we added since then:
+        Here is a very short rundown of what the hell we added since then:</br></br>
 
-            Texture pages now load externally and when they actually need to, if the game needs to load a lot of sprites then we don't have to immediately load every single one, all at once
+            Texture pages now load externally and when they actually need to, if the game needs to load a lot of sprites then we don't have to immediately load every single one, all at once</br></br>
 
-            The first half of The Centre Caves! That's the first level of the game by the way. We just need to make the second half
+            The first half of The Centre Caves! That's the first level of the game by the way. We just need to make the second half</br></br>
 
-            An actually reliable and not messy input system, courtesy of JuJuAdams' Input extension. Check him out, please
+            An actually reliable and not messy input system, courtesy of JuJuAdams' Input extension. Check him out, please</br></br>
 
-            An enemy framework. We called the test enemy Carl. Because of course we did
+            An enemy framework. We called the test enemy Carl. Because of course we did</br></br>
 
-            Scrapped that boring, shitty looking test tutorial in favour of a better looking one. Or maybe not. It's up to personal preference, but we're going with the better looking one
+            Scrapped that boring, shitty looking test tutorial in favour of a better looking one. Or maybe not. It's up to personal preference, but we're going with the better looking one</br></br>
 
-            Discord rich presence support. Discord sucks but eh, it's cool. Until YoYoGames sent out a patch to GMS2 breaking the extension we used for it. Fucking god damn it
+            Discord rich presence support. Discord sucks but eh, it's cool. Until YoYoGames sent out a patch to GMS2 breaking the extension we used for it. Fucking god damn it</br></br>
 
-            And many, many more
+            And many, many more</br></br>
 
-        Here are some highlights that the game was involved with:
+        Here are some highlights that the game was involved with:</br></br>
 
-            The game was at SAGE 2022! It was a great event, and we might be there next year. Hopefully once the game comes out (mid-late 2023) the game can be there. To play the demo, just search SFGHQ “chao adventure”, or go to the SAGE website and scroll down in the games tab until you find it. It's in the top section of the “Fan Games” part of the page.
+            The game was at SAGE 2022! It was a great event, and we might be there next year. Hopefully once the game comes out (mid-late 2023) the game can be there. To play the demo, just search SFGHQ “chao adventure”, or go to the SAGE website and scroll down in the games tab until you find it. It's in the top section of the “Fan Games” part of the page.</br></br>
 
-            We started the private alpha for the game back in July. It's still going on but we'll start the private beta once the second half of The Centre Caves is finished.
+            We started the private alpha for the game back in July. It's still going on but we'll start the private beta once the second half of The Centre Caves is finished.</br></br>
 
-        Go play the demo here: https://sonicfangameshq.com/forums/showcase/chao-adventure.1253/
+        Go play the demo here: https://sonicfangameshq.com/forums/showcase/chao-adventure.1253/ </br></br>
 
-        See you later, or probably in at least 100 days. Maybe.
+        See you later, or probably in at least 100 days. Maybe.</br></br>
 	</description>
 </item>
     </channel>
